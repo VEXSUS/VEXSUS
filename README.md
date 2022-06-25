@@ -2,7 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/VEXSUS)
 
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![](https://img.shields.io/badge/EMail-contact@vexsus.eu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![](https://img.shields.io/badge/Website-vexsus.eu-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
